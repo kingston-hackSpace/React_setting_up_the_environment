@@ -38,4 +38,4 @@ Set up the react website environment. Get the site working on a local machine us
 
 The w3Schools site has more information
 
-<a href=“https://www.w3schools.com/react/react_getstarted.asp”>Look here for more details</a>
+[Look here for more details](https://www.w3schools.com/react/react_getstarted.asp”)
